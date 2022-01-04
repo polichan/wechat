@@ -1,21 +1,21 @@
 package miniprogram
 
 import (
-	"github.com/silenceper/wechat/v2/credential"
-	"github.com/silenceper/wechat/v2/miniprogram/analysis"
-	"github.com/silenceper/wechat/v2/miniprogram/auth"
-	"github.com/silenceper/wechat/v2/miniprogram/config"
-	"github.com/silenceper/wechat/v2/miniprogram/content"
-	"github.com/silenceper/wechat/v2/miniprogram/context"
-	"github.com/silenceper/wechat/v2/miniprogram/encryptor"
-	"github.com/silenceper/wechat/v2/miniprogram/message"
-	"github.com/silenceper/wechat/v2/miniprogram/privacy"
-	"github.com/silenceper/wechat/v2/miniprogram/qrcode"
-	"github.com/silenceper/wechat/v2/miniprogram/shortlink"
-	"github.com/silenceper/wechat/v2/miniprogram/subscribe"
-	"github.com/silenceper/wechat/v2/miniprogram/tcb"
-	"github.com/silenceper/wechat/v2/miniprogram/urllink"
-	"github.com/silenceper/wechat/v2/miniprogram/werun"
+	"github.com/polichan/wechat/v2/credential"
+	"github.com/polichan/wechat/v2/miniprogram/analysis"
+	"github.com/polichan/wechat/v2/miniprogram/auth"
+	"github.com/polichan/wechat/v2/miniprogram/config"
+	"github.com/polichan/wechat/v2/miniprogram/content"
+	"github.com/polichan/wechat/v2/miniprogram/context"
+	"github.com/polichan/wechat/v2/miniprogram/encryptor"
+	"github.com/polichan/wechat/v2/miniprogram/message"
+	"github.com/polichan/wechat/v2/miniprogram/privacy"
+	"github.com/polichan/wechat/v2/miniprogram/qrcode"
+	"github.com/polichan/wechat/v2/miniprogram/shortlink"
+	"github.com/polichan/wechat/v2/miniprogram/subscribe"
+	"github.com/polichan/wechat/v2/miniprogram/tcb"
+	"github.com/polichan/wechat/v2/miniprogram/urllink"
+	"github.com/polichan/wechat/v2/miniprogram/werun"
 )
 
 // MiniProgram 微信小程序相关API

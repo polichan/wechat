@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/silenceper/wechat/v2/pay/config"
-	"github.com/silenceper/wechat/v2/util"
+	"github.com/polichan/wechat/v2/pay/config"
+	"github.com/polichan/wechat/v2/util"
 )
 
 // 付款到零钱

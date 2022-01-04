@@ -3,8 +3,8 @@ package component
 import (
 	"fmt"
 
-	openContext "github.com/silenceper/wechat/v2/openplatform/context"
-	"github.com/silenceper/wechat/v2/util"
+	openContext "github.com/polichan/wechat/v2/openplatform/context"
+	"github.com/polichan/wechat/v2/util"
 )
 
 const (

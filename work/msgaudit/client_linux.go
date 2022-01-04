@@ -13,8 +13,8 @@ import (
 	"encoding/json"
 	"unsafe"
 
-	"github.com/silenceper/wechat/v2/util"
-	"github.com/silenceper/wechat/v2/work/config"
+	"github.com/polichan/wechat/v2/util"
+	"github.com/polichan/wechat/v2/work/config"
 )
 
 // Client 会话存档
